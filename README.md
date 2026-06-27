@@ -6,6 +6,7 @@ SignBridge is an AI literacy platform for Deaf and sign-first learners. It addre
 
 **Live app:** https://signbridge-delta.vercel.app/
 **Repository:** https://github.com/RajdeepKushwaha5/Youth-Code-x-AI
+**Demo video:** https://youtu.be/rWQ1ObsBmLI
 **Backend health:** https://signbridge-api-49qf.onrender.com/health
 
 ---
